@@ -35,13 +35,13 @@ pip install ultralytics torch torchvision opencv-python matplotlib scikit-learn
 Grad-CAM heatmaps show which handwriting regions influence CNN predictions.
 
 ## Limitations
-Dataset is synthetic
-Real handwriting causes domain shift
+- Dataset is synthetic
+- Real handwriting causes domain shift
 
 ## Future Work
-Train on real dyslexic handwriting
-Multimodal learning (audio + eye tracking)
-Classroom assistive deployment
+- Train on real dyslexic handwriting
+- Multimodal learning (audio + eye tracking)
+- Classroom assistive deployment
 
 ## Authors
 - Sahishna Rajesh

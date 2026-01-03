@@ -29,6 +29,7 @@ https://www.kaggle.com/datasets/michaelfink0923/synthetic-dyslexia-handwriting-d
 ## Installation
 ```bash
 pip install ultralytics torch torchvision opencv-python matplotlib scikit-learn
+```
 
 ## Explainability
 Grad-CAM heatmaps show which handwriting regions influence CNN predictions.
